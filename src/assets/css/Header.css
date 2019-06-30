@@ -1,0 +1,11 @@
+.navbar-inverse.custome-navbar .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #fff;
+}
+.navbar-inverse.custome-navbar {
+    background-color: #fff;
+    border-color: #fff;
+    min-height: 66px;
+}
+.navbar-inverse.custome-navbar .navbar-nav>li>a:focus, .navbar-inverse.custome-navbar .navbar-nav>li>a:hover{
+    color: #000;
+}

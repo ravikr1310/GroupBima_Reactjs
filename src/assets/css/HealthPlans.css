@@ -1,0 +1,79 @@
+/* Health Insurance Plan */
+.health-ins-head h2{
+    display: inline-block;
+    font-size: 18px;
+}
+.health-ins-head span.showing-plans{
+    float: right;
+    margin-top:20px;
+}
+
+.sort-by-premium {
+    width: 20%;
+    display: inline-block;
+}
+.sort-by-premium span {
+    display: block;
+    margin-top: 0;
+}
+.modify-lac span {
+    display: block;
+    margin-top: 0;
+    float: left;
+}
+.modify-lac {
+    display: inline-block;
+    width: 27%;
+}
+.health-insurance-plan h2:first-child {
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.health-insurance-plan h2:last-child {
+    font-size: 12px;
+    float: right;
+}
+span.label-head {
+    display: block;
+    font-size: 11px;
+}
+span.lbl-sorter a{
+    color: #ea0b4b;
+}
+.sort-result{
+    position: relative;
+    margin-top: 10px;
+    line-height: 1.5;
+}
+.saperator {
+    height: 31px;
+    display: inline-block;    
+    border-left: 2px solid #c1c1c1;
+    position: absolute;
+}
+button.btn.btn-default.btn-filter {
+    border-color: #ea0b4b;
+    padding: 5px 43px;
+    color: #ea0b4b;
+}
+.row.row-1 {
+    border-top: 2px solid #aaaaaa;
+    border-bottom: 2px solid #aaaaaa;
+    padding: 12px 0;
+    margin-left:0;
+    margin-right:0;
+    margin-top: 5px;
+}
+span.ques {
+    background-color: #717171;
+    border-radius: 100%;
+    width: 12px;
+    display: inline-block;
+    height: 12px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px;
+    color: #fff;
+    font-size: 9px;
+}
